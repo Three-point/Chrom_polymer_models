@@ -1,0 +1,32 @@
+# Core polymer simulation
+polychrom>=0.1.0
+openmm>=7.5.0
+
+# Scientific computing
+numpy>=1.19.0
+scipy>=1.5.0
+pandas>=1.1.0
+h5py>=2.10.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Contact map analysis
+cooler>=0.8.11
+cooltools>=0.5.1
+
+# Machine learning (for metrics)
+scikit-learn>=0.24.0
+
+# GPU acceleration (optional)
+numba>=0.53.0
+
+# Data processing
+gsd>=2.0.0  # For processing Samejima et al. reference data
+
+# Jupyter notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
