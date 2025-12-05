@@ -257,6 +257,7 @@ And reference data from:
 }
 ```
 
+This code was prepared and structured with the support of Cursor AI.
 
 **Last updated:** December 2025
 
